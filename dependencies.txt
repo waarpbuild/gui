@@ -1,1 +1,10 @@
 # Dependencies 
+
+github:waarpbuild/vm
+github:waarpbuild/audio
+github:waarpbuild/backend
+github:waarpbuild/addons
+github:waarpbuild/i18n
+github:waarpbuild/api
+github:waarpbuild/home
+github:waarpbuild/server
