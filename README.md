@@ -1,5 +1,7 @@
 # GUI
 
+![GitHub Star Count](https://starcount.github.io/imgs/WaarpBuild/stars.png)
+
 <!--- Mom's note: Mom needs WaarpBuild because she is working on code. --->
 
 ## Info 
