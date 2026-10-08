@@ -11,8 +11,9 @@
     "addons": "github:waarpbuild/addons",
     "i18n": "github:waarpbuild/i18n",
     "api": "github:waarpbuild/api",
-    "home": "github:waarpbuild/home"
-    "server": "github:waarpbuild/server",
+    "home": "github:waarpbuild/home",
+    "server": "github:waarpbuild/server"
+  },
   "scripts": {
     "prepare": "husky"
   },
