@@ -7,7 +7,7 @@ module.exports = {
 
   output: {
     path: path.resolve(__dirname, "dist"),
-    filename: "waarbuild.js",
+    filename: "waarpbuild.js",
     clean: true
   },
 
