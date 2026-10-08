@@ -11,7 +11,7 @@
     "addons": "github:waarpbuild/addons",
     "i18n": "github:waarpbuild/i18n",
     "api": "github:waarpbuild/api",
-    "home": "github:waarpbuild/home",
+    "home": "github:waarpbuild/waarpbuild.github.io",
     "server": "github:waarpbuild/server"
   },
   "scripts": {
