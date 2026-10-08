@@ -7,7 +7,8 @@ app.innerHTML = `
   <p>Build <b>apps</b> with WaarpBuild.</p>
   <a href="https://waarpbuild.vercel.app">
   <button>Start creating</button>
-</a> <a href="https://waarpbuild.vercel.app/login/">
+</a>
+<a href="https://waarpbuild.vercel.app/login/">
   <button>⚡ Join</button>
 </a>
 `;
