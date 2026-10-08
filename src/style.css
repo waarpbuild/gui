@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #111;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 24px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0 0 12px;
+}
+
+p {
+  font-size: 20px;
+  margin: 0 0 28px;
+}
+
+a {
+  text-decoration: none;
+  margin: 6px;
+}
+
+button {
+  padding: 12px 22px;
+  border: 0;
+  border-radius: 8px;
+  background: #111;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.85;
+}
