@@ -34,10 +34,20 @@ a {
   margin: 6px;
 }
 
-button {
+button,
+.button {
   text-decoration: none;
+  padding: 12px 22px;
+  border: 0;
+  border-radius: 8px;
+  background: #111;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
 }
 
-button:hover {
+button:hover,
+.button:hover {
   opacity: 0.85;
 }
