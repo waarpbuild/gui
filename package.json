@@ -1,7 +1,8 @@
 {
   "name": "waarpbuild-gui",
   "version": "0.0.1",
-  "url": "https://github.com/waarpbuild/gui",
+  "homepage": "https://github.com/waarpbuild/gui",
+  "license": "GPL-3.0-or-later",
   "private": true,
   "dependencies": {
     "vm": "github:waarpbuild/vm",
