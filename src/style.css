@@ -30,18 +30,12 @@ p {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: blue;
   margin: 6px;
 }
 
 button {
-  padding: 12px 22px;
-  border: 0;
-  border-radius: 8px;
-  background: #111;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
+  text-decoration: none;
 }
 
 button:hover {
